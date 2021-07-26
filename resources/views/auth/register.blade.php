@@ -69,6 +69,7 @@
                             </div>
                         </div>
                     </form>
+                    <a href="/" role="button" class="btn btn-primary">Back To Home</a>
                 </div>
             </div>
         </div>
